@@ -1,0 +1,22 @@
+.container {
+    width: auto;
+    overflow: hidden;
+    background: blue;
+    margin: 20px auto;
+    padding: 20px; 
+}
+.container ul{
+    padding: 0px;
+    margin: 0px;
+}
+.container ul{
+    list-style: none;
+    float:left;
+    width: auto;
+    height:inherit;
+    background: skyblue;
+    margin: 20;
+}
+    
+        
+    
